@@ -1,0 +1,20 @@
+.reveal section p {
+  font-size: 1.25em;
+}
+
+.reveal section h2 {
+  font-size: 200%;
+}
+
+.reveal section h1 {
+  font-size: 200%;
+}
+
+.reveal section code {
+  font-size: 1.25em;
+  font-family: monospace;
+}
+
+.reveal section blockquote {
+  font-size: 1.10em;
+}
