@@ -48,6 +48,9 @@ knitr::opts_chunk$set(echo = FALSE)
 - Associate Professor of Psychology
 - Founding Director of Human Imaging, PSU [SLEIC](http://imaging.psu.edu)
 - Co-Founder/Co-Director [Databrary.org](http://databrary.org)
+
+---
+
 - Ph.D. in cognitive neuroscience, Carnegie Mellon University
 - B.A. in cognitive science, Brown University
 - vision, perception & action, brain development, open science
@@ -63,6 +66,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## What proportion of studies in the published scientific literature are *actually true*?
 
+---
+
 - 100%
 - 90%
 - 70%
@@ -73,19 +78,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Science (and scientists) should be open & transparent about their methods and findings
 
-### Agree | Disagree
-
 ## Science (and scientists) should be *more* open & transparent than they are now
 
-### Agree | Disagree
 
 ## Openness and transparency are related to research robustness (e.g., reproducibility, reliability, impact)
 
-### Agree | Disagree
-
 ## Unless there are privacy or contractual limitations, procedures and data files described in published scientific papers should be readily available in forms reusable by others
-
-### Agree | Disagree
 
 ## Is there a reproducibility crisis in science?
 
@@ -360,7 +358,7 @@ Statistical reporting errors in the published literature are more common that ma
 
 > "...psychologists tend to treat other peoples’ theories like toothbrushes; no self-respecting individual wants to use anyone else’s."
 
-[Walter Mischel, 2009](https://www.psychologicalscience.org/observer/becoming-a-cumulative-science)
+<small>[Mischel, 2009](https://www.psychologicalscience.org/observer/becoming-a-cumulative-science)</small>
 
 ## The sin of pragmatism...
 
@@ -400,7 +398,9 @@ Your browser does not support the video tag.
 
 ## Humans are diverse
 
-But much (lab-based) data collected are from **W**estern, **E**ducated **I**ndustrialized, **R**ich, **D**emocratic (WEIRD) populations [Henrich et al., 2010](http://doi.org/10.1017/S0140525X0999152X)
+But much (lab-based) data collected are from **W**estern, **E**ducated **I**ndustrialized, **R**ich, **D**emocratic (WEIRD) populations 
+
+<small>[Henrich et al., 2010](http://doi.org/10.1017/S0140525X0999152X)</small>
 
 ---
 
@@ -448,7 +448,7 @@ But much (lab-based) data collected are from **W**estern, **E**ducated **I**ndus
 </a>
 </br>
 <small>
-([Munafo et al., 2017](http://doi.org/10.1038/s41562-016-0021))
+[Munafo et al., 2017](http://doi.org/10.1038/s41562-016-0021)
 </small>
 </div>
 
@@ -476,19 +476,19 @@ I urge you to read it.
 
 > "We conducted replications of 100...studies published in three psychology journals using high-powered designs and original materials when available....The mean effect size (r) of the replication effects ...was half the magnitude of the mean effect size of the original effects..."
 
-[Open Science Collaboration, 2015](http://science.sciencemag.org/content/349/6251/aac4716)
+<small>[Open Science Collaboration, 2015](http://science.sciencemag.org/content/349/6251/aac4716)</small>
 
 ---
 
 > "Ninety-seven percent of original studies had significant results (P < .05). Thirty-six percent of replications had significant results"
 
-[Open Science Collaboration, 2015](http://science.sciencemag.org/content/349/6251/aac4716)
+<small>[Open Science Collaboration, 2015](http://science.sciencemag.org/content/349/6251/aac4716)</small>
 
 ---
 
 > "39% of effects were subjectively rated to have replicated the original result..."
 
-[Open Science Collaboration, 2015](http://science.sciencemag.org/content/349/6251/aac4716)
+<small>[Open Science Collaboration, 2015](http://science.sciencemag.org/content/349/6251/aac4716)</small>
 
 ---
 
@@ -496,13 +496,15 @@ I urge you to read it.
 knitr::include_graphics("https://mfr.osf.io/export?url=https://osf.io/fg4d3/?action=download%26mode=render%26direct%26public_file=True&initialWidth=711&childId=mfrIframe&parentTitle=OSF+%7C+F1+-+EffectSizes.png&parentUrl=https://osf.io/fg4d3/&format=2400x2400.jpeg")
 ```
 
-[Camerer, et al. 2018](https://www.nature.com/articles/s41562-018-0399-z)
+<small>[Camerer, et al. 2018](https://www.nature.com/articles/s41562-018-0399-z)</small>
 
 ---
 
 ```{r, fig.cap = 'Camerer et al. Fig 5'}
 knitr::include_graphics("https://mfr.osf.io/export?url=https://osf.io/cefq7/?action=download%26mode=render%26direct%26public_file=True&initialWidth=680&childId=mfrIframe&parentTitle=OSF+%7C+F4+-+PeerBeliefs.png&parentUrl=https://osf.io/cefq7/&format=2400x2400.jpeg")
 ```
+
+<small>[Camerer, et al. 2018](https://www.nature.com/articles/s41562-018-0399-z)</small>
 
 ## If it's too good to be true, it probably isn't
 
@@ -529,9 +531,6 @@ Karen Adolph at NYU is my partner in founding and directing the Databrary projec
 - Data libraries
 - Funder, journal mandates for sharing increasing
 - But no long-term, stable, funding sources for curation, archiving, sharing
-- ArXiv model
-    - Institutional (Cornell) support
-    - Subscription
 
 ---
 
